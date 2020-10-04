@@ -27,7 +27,7 @@ SECRET_KEY = 'jfr7$!tz=pm60y4w6)w-28s#)q5(owq+396ys=1y4iq6@c*go-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost']
+ALLOWED_HOSTS = ['https://trialssk785.herokuapp.com/','127.0.0.1','localhost']
 
 
 # Application definition
